@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahsalvi)](https://github.com/noahsalvi/github-readme-stats)
 
 <!--
 **noahsalvi/noahsalvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
