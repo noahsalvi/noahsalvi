@@ -1,5 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahsalvi&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **noahsalvi/noahsalvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
